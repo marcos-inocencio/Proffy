@@ -1,11 +1,6 @@
 <div align="center" 
   style="
-    background: #7862C8; 
-    color: #444;
-    height: 15vw;
-    display: flex;
-    justify-content: center;
-  "
+    background: #7862C8;"
 > Ola
   <img 
     src="./web/src/assets/images/logo.svg" 
