@@ -1,18 +1,19 @@
-<h1 align="center" 
+<div align="center" 
   style="
     background: #7862C8; 
+    color: #444;
     height: 15vw;
     display: flex;
     justify-content: center;
   "
-> 
+> Ola
   <img 
-  src="./web/src/assets/images/logo.svg" 
-  alt="NextLavelWeek2" 
-  title="Proffy"
-  width="300"
+    src="./web/src/assets/images/logo.svg" 
+    alt="NextLavelWeek2" 
+    title="Proffy"
+    width="300"
   />
-</h1>
+</div>
 
 <br/>
 
