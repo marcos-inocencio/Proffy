@@ -1,0 +1,42 @@
+.background-image {
+  height: 30rem;
+  background:
+  var(--color-primary)
+  url('../../assets/images/background.svg')
+  no-repeat center;
+  background-size: 32rem;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.background-image .description
+{
+  margin: 3.2rem auto;
+}
+
+.description img {
+  height: 7rem;
+}
+
+.description h2 {
+  font: 1.8rem Archivo;
+  line-height: 2.3rem;
+}
+
+@media (min-width: 1100px) {
+  .background-image {
+    height: 100%;
+    background-size: 75%;
+  }
+  
+  .description img {
+    height: 10rem;
+  }
+
+  .description h2 {
+    font: 2.7rem Archivo;
+    line-height: 3.2rem;
+  }
+}

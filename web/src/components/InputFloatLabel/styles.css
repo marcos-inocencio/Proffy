@@ -1,0 +1,53 @@
+.float-label {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.float-label input {
+  width: 100%;
+  height: 7rem;
+  padding: 1.7rem 1.7rem 0;
+  background: var(--color-input-background);
+  border: 1px solid var(--color-line-in-white);
+  border-radius: 0.8rem;
+  outline: 0;
+}
+
+input.border-top {
+  border-radius: 0.8rem 0.8rem 0 0;
+  border-bottom: 0;
+}
+
+input.border-bottom {
+  border-radius: 0 0 0.8rem 0.8rem;
+} 
+
+.float-label input ~ label {
+  font: 1.8rem Archivo;
+  color: var(--color-text-complement);
+  padding: 0 23px;
+  pointer-events: none;
+  position: absolute;
+  transform: translateY(25px) scale(1);
+  transform-origin: top left;
+  transition: all 0.2s ease-out;
+}
+
+
+.float-label input:focus ~ label,
+.float-label input:valid ~ label {
+  transform: translate(0, 15px) scale(0.75);
+}
+
+
+.float-label:focus-within::after {
+  height: calc(100% - 2.5rem);
+  width: 2px;
+  content: '';
+  background: var(--color-primary-light);
+  position: absolute;
+  left: 0;
+  top: 1.3rem;
+  bottom: 1.6rem;
+}
