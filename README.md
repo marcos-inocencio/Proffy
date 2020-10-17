@@ -6,7 +6,7 @@
     display: flex;
     justify-content: center;
   "
-> Ola
+> 
   <img 
     src="https://github.com/sciencebit/proffy/web/src/assets/images/logo.svg" 
     alt="NextLavelWeek2" 
