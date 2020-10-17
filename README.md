@@ -1,4 +1,4 @@
-<div align="center" 
+<h1 align="center" 
   style="
     background: #7862C8; 
     height: 15vw;
@@ -11,14 +11,8 @@
   alt="NextLavelWeek2" 
   title="Proffy"
   width="300"
-  style="
-    background: #7862C8; 
-    height: 15vw;
-    display: flex;
-    justify-content: center;
-  "
   />
-</div>
+</h1>
 
 <br/>
 
