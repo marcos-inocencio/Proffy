@@ -1,4 +1,12 @@
-<div align="center"> 
+<div align="center" 
+  style="
+    background-color: #7862C8; 
+    color: #444;
+    height: 15vw;
+    display: flex;
+    justify-content: center;
+  "
+> 
   <img 
     src="https://github.com/sciencebit/proffy/blob/master/web/src/assets/images/logo.svg" 
     alt="NextLavelWeek2" 
