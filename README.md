@@ -8,7 +8,7 @@
   "
 > Ola
   <img 
-    src="https://github.com/ScienceBit/Proffy/web/src/assets/images/logo.svg" 
+    src="https://github.com/sciencebit/proffy/web/src/assets/images/logo.svg" 
     alt="NextLavelWeek2" 
     title="Proffy"
     width="300"
