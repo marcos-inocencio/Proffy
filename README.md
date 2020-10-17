@@ -1,9 +1,14 @@
 <div align="center" 
   style="
-    background: #7862C8;"
+    background: #7862C8; 
+    color: #444;
+    height: 15vw;
+    display: flex;
+    justify-content: center;
+  "
 > Ola
   <img 
-    src="./web/src/assets/images/logo.svg" 
+    src="https://github.com/ScienceBit/Proffy/web/src/assets/images/logo.svg" 
     alt="NextLavelWeek2" 
     title="Proffy"
     width="300"
