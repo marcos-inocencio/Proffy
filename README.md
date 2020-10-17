@@ -1,6 +1,6 @@
 <div align="center" 
   style="
-    background: #7862C8; 
+    background-color: #7862C8; 
     color: #444;
     height: 15vw;
     display: flex;
