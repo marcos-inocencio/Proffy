@@ -11,7 +11,7 @@
     src="https://github.com/sciencebit/proffy/web/src/assets/images/logo.svg" 
     alt="NextLavelWeek2" 
     title="Proffy"
-    width="300"
+    width="300px"
   />
 </div>
 
