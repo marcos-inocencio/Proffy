@@ -1,13 +1,9 @@
-<div align="center" 
-  style="
-    background-color: #7862C8; 
-  "
-> 
+<div align="center"> 
   <img 
-    src="https://github.com/sciencebit/proffy/blob/master/web/src/assets/images/logo.svg" 
+    src="https://res.cloudinary.com/dyddrahdl/image/upload/v1602988126/proffy/logo_github.svg" 
     alt="NextLavelWeek2" 
     title="Proffy"
-    width="300px"
+    width="350px"
   />
 </div>
 
