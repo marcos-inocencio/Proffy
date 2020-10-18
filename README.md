@@ -13,8 +13,8 @@
 
 <div align="center">
   <img alt="Project programing language" src="https://img.shields.io/github/languages/top/ScienceBit/Proffy?color=5849BE">
-  <img alt="issues" src="https://img.shields.io/github/issues/ScienceBit/Proffy?color=5849BE">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/ScienceBit/Proffy?color=5849BE">
   <img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/ScienceBit/Proffy?color=5849BE">
   <img alt="GitHub License" src="https://img.shields.io/github/license/ScienceBit/Proffy?color=5849BE">
+  <img alt="issues" src="https://img.shields.io/github/issues/ScienceBit/Proffy?color=5849BE">
 </div>
