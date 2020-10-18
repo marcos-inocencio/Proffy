@@ -7,8 +7,6 @@
   />
 </div>
 
-<br/>
-
 <h2 align="center"> :books: Next Level Week 2.0 </h2>
 
 <div align="center">
