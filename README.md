@@ -21,15 +21,14 @@
 <br/>
 <br/>
 
-## :seedling: Sobre
+## :seedling: About
 
-Proffy é uma plataforma de estudos que facilita o encontro entre alunos e professores,
-oferecendo para professores a possibilidade de registrar informações como: aulas, disciplinas, custos, horários e WhatsApp para contato. <br/>
-Já os alunos podem filtrar por matérias e horários, escolhendo os professores entre os resultados. O contato é feito através do WhatsApp, porque ainda não foi desenvolvido a área que possibilita chamadas de vídeo e chat.
+Proffy is a study platform that facilitates the meeting between students and teachers, offering teachers the possibility to record information such as: classes, subjects, costs, schedules and WhatsApp for contact. <br/>
+Students can filter by subjects and schedules, choosing teachers among the results. The contact is made through WhatsApp, because the area that allows video calls and chat has not yet been developed.
 
-Este projeto foi desenvolvido durante a semana  **[Next Level Week](https://nextlevelweek.com/)**, realizado pela **[@Rocketseat](https://github.com/Rocketseat)** do dia 3 a 9 de gosto de 2020, o projeto foi idealizado pensando no dia Dia Nacional dos Profissionais da Educação, comemorado em 6 de agosto. 
+This project was developed during the week **[Next Level Week](https://nextlevelweek.com/)**, carried out by **[@Rocketseat](https://github.com/Rocketseat)** from 3rd to 9th of 2020, the project was conceived thinking about the National Day of Education Professionals, celebrated on August 6th.
 
-## :rocket: Tecnologias
+## :rocket: Technologies
 * Node.js
 * Typescript
 * ReactJS
