@@ -24,7 +24,7 @@
 ## :seedling: Sobre
 
 Proffy é uma plataforma de estudos que facilita o encontro entre alunos e professores,
-oferecendo para professores a possibilidade de registrar informações como: aulas, disciplinas, custos, horários e WhatsApp para contato.
+oferecendo para professores a possibilidade de registrar informações como: aulas, disciplinas, custos, horários e WhatsApp para contato. <br/>
 Já os alunos podem filtrar por matérias e horários, escolhendo os professores entre os resultados. O contato é feito através do WhatsApp, porque ainda não foi desenvolvido a área que possibilita chamadas de vídeo e chat.
 
 Este projeto foi desenvolvido durante a semana Next Level Week, realizado pela @Rocketseat do dia 3 a 9 de gosto de 2020, o projeto foi idealizado pensando no dia Dia Nacional dos Profissionais da Educação, comemorado em 6 de agosto. 
