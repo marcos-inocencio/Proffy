@@ -23,10 +23,14 @@
 
 ## :seedling: About
 
-Proffy is a study platform that facilitates the meeting between students and teachers, offering teachers the possibility to record information such as: classes, subjects, costs, schedules and WhatsApp for contact. <br/>
+Proffy is a study platform that facilitates the meeting between students and teachers, offering teachers the possibility to record information such as: classes, subjects, pricing, schedules and WhatsApp for contact. <br/>
 Students can filter by subjects and schedules, choosing teachers among the results. The contact is made through WhatsApp, because the area that allows video calls and chat has not yet been developed.
 
 This project was developed during the week **[Next Level Week](https://nextlevelweek.com/)**, carried out by **[@Rocketseat](https://github.com/Rocketseat)** from August 3rd to 9th 2020, the project was conceived thinking about the National Day of Education Professionals, celebrated on August 6th.
+
+<div align="center">
+  <img src="https://res.cloudinary.com/dyddrahdl/image/upload/v1603172982/proffy/proffy_github.png" alt="Proffy"/>
+</div>
 
 ## :rocket: Technologies
 * Node.js
