@@ -20,7 +20,7 @@
 <br/>
 <div align="center">
   <img 
-    src="https://res.cloudinary.com/dyddrahdl/image/upload/v1603176092/proffy/proffy_t4pi53.png" alt="Proffy" 
+    src="https://res.cloudinary.com/dyddrahdl/image/upload/v1603176326/proffy/proffy_iwsap2.png" alt="Proffy" 
     width="800px"
   />
 </div>
