@@ -18,6 +18,9 @@
 </div>
 
 <br/>
+<div align="center">
+  <img src="https://res.cloudinary.com/dyddrahdl/image/upload/v1603173686/proffy/proffy_github.png" alt="Proffy"/>
+</div>
 <br/>
 <br/>
 
@@ -28,9 +31,6 @@ Students can filter by subjects and schedules, choosing teachers among the resul
 
 This project was developed during the week **[Next Level Week](https://nextlevelweek.com/)**, carried out by **[@Rocketseat](https://github.com/Rocketseat)** from August 3rd to 9th 2020, the project was conceived thinking about the National Day of Education Professionals, celebrated on August 6th.
 
-<div align="center">
-  <img src="https://res.cloudinary.com/dyddrahdl/image/upload/v1603173686/proffy/proffy_github.png" alt="Proffy"/>
-</div>
 
 ## :rocket: Technologies
 * Node.js
