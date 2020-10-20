@@ -21,7 +21,7 @@
 <div align="center">
   <img 
     src="https://res.cloudinary.com/dyddrahdl/image/upload/v1603173686/proffy/proffy_github.png" alt="Proffy" 
-    width="2500px"
+    width="800px"
   />
 </div>
 <br/>
