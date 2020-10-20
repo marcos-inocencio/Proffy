@@ -20,7 +20,7 @@
 <br/>
 <div align="center">
   <img 
-    src="https://res.cloudinary.com/dyddrahdl/image/upload/v1603173686/proffy/proffy_github.png" alt="Proffy" 
+    src="https://res.cloudinary.com/dyddrahdl/image/upload/v1603175650/proffy/proffy_zx9upk.png" alt="Proffy" 
     width="800px"
   />
 </div>
