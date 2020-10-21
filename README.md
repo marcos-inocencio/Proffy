@@ -15,6 +15,9 @@
   <img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/ScienceBit/Proffy?color=5849BE">
   <img alt="issues" src="https://img.shields.io/github/issues/ScienceBit/Proffy?color=5849BE">
   <img alt="GitHub License" src="https://img.shields.io/github/license/ScienceBit/Proffy?color=5849BE">
+  
+  [codacy-badge]: https://app.codacy.com/project/badge/Grade/b2d32fa731984f3e9c3eaa814861c9db
+  ![Codacy Quality][codacy-badge]
 </div>
 
 <br/>
