@@ -1,9 +1,5 @@
 import React, { useState, useEffect } from 'react';
-/**
- * utilizamos o componente Link do react-router-dom para darmos ao usario uma experiencia de navegação
- * Single page, evitando carregamentos de arquivos desnecessarios resultando em um otima
- * experiencia para o usuario.
- */
+
 import { Link } from 'react-router-dom';
 
 import logoImg from '../../assets/images/logo.svg';
